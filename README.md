@@ -1,8 +1,5 @@
-Sure, here's a simplified version of the README file with only the required information in GitHub format:
 
----
-
-# Project Name
+# Infobot - A Robot That Recognizes Faces and Objects and Extracts Information About Them
 
 ## Cloning Instructions
 
